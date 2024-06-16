@@ -1,6 +1,6 @@
 package com.isanghoony.composeexample.navigation
 
-enum class TestScreen {
+enum class TestListScreen {
     Main,
     Test,
     ConstraintLayout,
